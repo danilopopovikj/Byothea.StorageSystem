@@ -1,0 +1,2 @@
+C:\GIT\ByotheaStorage\Byothea.StorageSystem\bin\Debug\Byothea.StorageSystem.exe.config
+C:\GIT\Byothea\Byothea.StorageSystem\bin\Debug\Byothea.StorageSystem.exe.config
